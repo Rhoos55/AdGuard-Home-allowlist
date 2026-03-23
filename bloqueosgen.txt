@@ -1,0 +1,76 @@
+# AdGuard-Home-allowlist
+Lista blanca personal permitida en AdGuard Home
+#
+######################################################################
+# Version: v1.3
+# Project allow list RHO AdGuard Home
+# Title: Whitelist RHO custom
+# Rows: 63
+######################################################################
+#
+@@||365scores.com^$important
+@@||mobileapi.365scores.com^$important
+@@||forum.mikrotik.com^$important
+@@||account-kdp.amazon.com^$important
+@@||blogspot.com^$important
+@@||applist.heimdall.site^$important
+@@||appslist.heimdall.site^$important
+@@||funtvcr.site^$important
+@@||galaxystore.samsung.site^$important
+@@||samsungcloudsolution.net^$important
+@@||apu.samsungelectronics.com^$important
+@@||samsungqbe.com^$important
+@@||synology.com^$important
+@@||stremio.com^$important
+@@||canalvirtual.bancopopular.fi.cr^$important
+@@||bcdn-god.we-stats.com^$important
+@@||bancopopular-prd.transmit.security^$important
+@@||1337x.to^$important
+@@||yts.mx^$important
+@@||eztvx.to^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||android.clients.google.com^$important
+@@||appspot-preview.l.google.com^$important
+@@||mobileapi.365scores.com^$important
+@@||play.google.com^$important
+@@||play-lh.googleusercontent.com^$important
+@@|play-fe.googleapis.com^$important
+@@|play-lh.googleusercontent.com^$important
+@@|play.google.com^$important
+@@|play.googleapis.com^$important
+@@|playatoms-pa.googleapis.com^$important
+@@|playstoregatewayadapter-pa.googleapis.com^$important
+@@|prod-lt-playstoregatewayadapter-pa.googleapis.com^$important
+@@|tokenized.play.google.com^$important
+@@||www.canva.com^$important
+@@||api2.branch.io^$important
+@@||www.tse.go.cr^$important
+@@||mobile.events.data.microsoft.com^$important
+@@||in.appcenter.ms^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||s.youtube.com^$important
+@@||api.onesignal.com^$important
+@@||sdk.pushmessage.samsung.com^$important
+@@||o1383653.ingest.sentry.io^$important
+@@||safebrowsing.google.com^$important
+@@||unagi-na.amazon.com^$important
+@@||alexa.na.gateway.devices.a2z.com^$important
+@@||20c21bbc399f9ef2c91f0365d42531bf5023b70d32dbaf7f53f0b49d5110f72.us-east-1.prod.service.minerva.devices.a2z.com^$important
+@@||avs-alexa-14-na.amazon.com^$important
+@@||det-ta-g7g.amazon.com^$important
+@@||hdshost.online^$important
+@@||s.click.aliexpress.com^$important
+@@||hdshost.online^$important
+@@||customerevents.netflix.com^$important
+@@||api6.ipify.org^$important
+@@||dai.google.com^$important
+@@||ichnaea.netflix.com^$important
+@@||api.us-east-1.aiv-delivery.net^$important
+@@||logs.netflix.com^$important
+@@||tvx.adgrx.com^$important
+@@||sas.samsungcloudsolution.com^$important
+@@||hdshost.vip^$important
+#
+##############################################################
+#
