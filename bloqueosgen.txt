@@ -1,11 +1,12 @@
 # AdGuard-Home-allowlist
 Lista blanca personal permitida en AdGuard Home
+############################
 #
 ######################################################################
 # Version: v1.3
 # Project allow list RHO AdGuard Home
 # Title: Whitelist RHO custom
-# Rows: 63
+# Rows: 71
 ######################################################################
 #
 @@||365scores.com^$important
@@ -71,6 +72,14 @@ Lista blanca personal permitida en AdGuard Home
 @@||tvx.adgrx.com^$important
 @@||sas.samsungcloudsolution.com^$important
 @@||hdshost.vip^$important
+@@||firebaseinstallations.googleapis.com
+@@||android.bugly.qq.com
+@@||api.appline.top
+@@||ptjapi.appline.top
+@@||api.applife.top
+@@||bro.applocal.top
+@@||checkip.amazonaws.com
+@@||app-measurement.com
 #
 ##############################################################
 #
