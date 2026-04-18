@@ -6,7 +6,7 @@ Lista blanca personal permitida en AdGuard Home
 # Version: v1.3
 # Project allow list RHO AdGuard Home
 # Title: Whitelist RHO custom
-# Rows: 71
+# Rows: 72
 ######################################################################
 #
 @@||365scores.com^$important
