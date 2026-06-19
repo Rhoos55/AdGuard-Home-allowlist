@@ -6,7 +6,7 @@ Lista blanca personal permitida en AdGuard Home
 # Version: v1.3
 # Project allow list RHO AdGuard Home
 # Title: Whitelist RHO custom
-# Rows: 75
+# Rows: 77
 ######################################################################
 #
 @@||365scores.com^$important
@@ -84,6 +84,8 @@ Lista blanca personal permitida en AdGuard Home
 @@||beacons.gcp.gvt2.com^$important
 @@||beacons.gvt2.com^$important
 @@||up.108087.cc^$important
+@@||download.108087.cc$important
+@@||router.bitcomet.net$important
 #
 ##############################################################
 #
