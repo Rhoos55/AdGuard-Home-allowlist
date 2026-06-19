@@ -6,7 +6,7 @@ Lista blanca personal permitida en AdGuard Home
 # Version: v1.3
 # Project allow list RHO AdGuard Home
 # Title: Whitelist RHO custom
-# Rows: 72
+# Rows: 75
 ######################################################################
 #
 @@||365scores.com^$important
@@ -72,14 +72,18 @@ Lista blanca personal permitida en AdGuard Home
 @@||tvx.adgrx.com^$important
 @@||sas.samsungcloudsolution.com^$important
 @@||hdshost.vip^$important
-@@||firebaseinstallations.googleapis.com
-@@||android.bugly.qq.com
-@@||api.appline.top
-@@||ptjapi.appline.top
-@@||api.applife.top
-@@||bro.applocal.top
-@@||checkip.amazonaws.com
-@@||app-measurement.com
+@@||firebaseinstallations.googleapis.com^$important
+@@||android.bugly.qq.com^$important
+@@||api.appline.top^$important
+@@||ptjapi.appline.top^$important
+@@||api.applife.top^$important
+@@||bro.applocal.top^$important
+@@||checkip.amazonaws.com^$important
+@@||app-measurement.com^$important
+@@||androidtvchannels-pa.googleapis.com^$important
+@@||beacons.gcp.gvt2.com^$important
+@@||beacons.gvt2.com^$important
+@@||up.108087.cc^$important
 #
 ##############################################################
 #
