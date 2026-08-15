@@ -57,7 +57,6 @@ Lista blanca personal permitida en AdGuard Home
 @@||safebrowsing.google.com^$important
 @@||unagi-na.amazon.com^$important
 @@||alexa.na.gateway.devices.a2z.com^$important
-@@||20c21bbc399f9ef2c91f0365d42531bf5023b70d32dbaf7f53f0b49d5110f72.us-east-1.prod.service.minerva.devices.a2z.com^$important
 @@||avs-alexa-14-na.amazon.com^$important
 @@||det-ta-g7g.amazon.com^$important
 @@||hdshost.online^$important
