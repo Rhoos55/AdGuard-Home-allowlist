@@ -6,7 +6,7 @@ Lista blanca personal permitida en AdGuard Home
 # Version: v1.3
 # Project allow list RHO AdGuard Home
 # Title: Whitelist RHO custom
-# Rows: 80
+# Rows: 84
 ######################################################################
 #
 @@||365scores.com^$important
@@ -88,6 +88,10 @@ Lista blanca personal permitida en AdGuard Home
 @@||costa-rica-experian.gpo5yyg5oncg.gw.gpcloudservice.com^$client='10.0.0.0/24'
 @@||us-northwest-g-experian.gpo5yyg5oncg.gw.gpcloudservice.com^$important
 @@||costa-rica-experian.gpo5yyg5oncg.gw.gpcloudservice.com^$important
+@@||gabi-experianinteractive.gpcloudservice.com^$important
+@@||wpad.consumerinfo.com^$important
+@@||us-v20.events.endpoint.security.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
 #
 ##############################################################
 #
